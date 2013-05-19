@@ -1595,6 +1595,31 @@
 		<key>text-rendering</key>
 	<array>
 		<string>optimizeLegibility</string>
+	</array>	
+		
+	<key>filter</key>
+	<array>
+		<string>blur(2px)</string>
+		<string>brightness(100%)</string>
+		<string>drop-shadow(-0.21px 4.57px 5.8px rgba(0, 0, 0, 0.86))</string>
+		<string>grayscale(100%)</string>
+		<string>hue-rotate(180deg)</string>
+		<string>invert(100%)</string>
+		<string>opacity(50%)</string>
+		<string>saturate(500%)</string>
+		<string>sepia(100%)</string>
+	</array>
+	 <key>-webkit-filter</key>
+	<array>
+		<string>blur(2px)</string>
+		<string>brightness(100%)</string>
+		<string>drop-shadow(-0.21px 4.57px 5.8px rgba(0, 0, 0, 0.86))</string>
+		<string>grayscale(100%)</string>
+		<string>hue-rotate(180deg)</string>
+		<string>invert(100%)</string>
+		<string>opacity(50%)</string>
+		<string>saturate(500%)</string>
+		<string>sepia(100%)</string>
 	</array>
 	
 </dict>
