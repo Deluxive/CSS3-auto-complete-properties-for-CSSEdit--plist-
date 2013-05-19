@@ -478,6 +478,7 @@
 		<string>Calibri</string>
 		<string>Cambria</string>
 		<string>Consolas</string>
+		<string>Menlo</string>
 		<string>Courier</string>
 		<string>Futura</string>
 		<string>Garamond</string>
@@ -485,6 +486,8 @@
 		<string>Geneva</string>
 		<string>Georgia</string>
 		<string>GillSans</string>
+		<string>Open Sans</string>
+		<string>Open Sans Condensed</string>
 		<string>Haettenschweiler</string>
 		<string>Helvetica</string>
 		<string>&quot;Helvetica-Neue&quot;</string>
