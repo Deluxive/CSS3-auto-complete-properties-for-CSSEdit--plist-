@@ -1622,5 +1622,26 @@
 		<string>sepia(100%)</string>
 	</array>
 	
+		 <key>hyphens</key>
+	<array>
+		<string>manual</string>
+		<string>auto</string>
+	</array>	 
+	<key>-moz-hyphens</key>
+	<array>
+		<string>manual</string>
+		<string>auto</string>
+	</array>
+			<key>-webkit-hyphens</key>
+	<array>
+		<string>manual</string>
+		<string>auto</string>
+	</array>
+		<key>-ms-hyphens</key>
+	<array>
+		<string>manual</string>
+		<string>auto</string>
+	</array>
+	
 </dict>
 </plist>
