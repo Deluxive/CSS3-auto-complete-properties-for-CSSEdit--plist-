@@ -1592,5 +1592,10 @@
 	<array>
 		<string>1</string>
 	</array>
+		<key>text-rendering</key>
+	<array>
+		<string>optimizeLegibility</string>
+	</array>
+	
 </dict>
 </plist>
