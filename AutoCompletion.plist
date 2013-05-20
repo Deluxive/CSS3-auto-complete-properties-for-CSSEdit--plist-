@@ -1824,5 +1824,9 @@
 		<string>vertical</string>
 		<string>inherit</string>
 		</array>
+   <key>widows</key>
+	<array>
+		<string>inherit</string>
+		</array>
 </dict>
 </plist>
