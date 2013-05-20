@@ -1172,7 +1172,6 @@
 	<array>
 		<string>normal</string>
 		<string>pre</string>
-		<string>nowrap</string>
 		<string>pre-wrap</string>
 		<string>pre-line</string>
         <string>nowrap</string>
@@ -1817,7 +1816,6 @@
 		<string>vertical</string>
 		<string>inherit</string>
 		</array>
-						<key>-moz-resize</key>
 	<key>-moz-resize</key>
 	<array>
 		<string>none</string>
