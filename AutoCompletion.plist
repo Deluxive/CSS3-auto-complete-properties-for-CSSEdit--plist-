@@ -1136,6 +1136,26 @@
 	<array>
 		<string>auto</string>
 		<string>inherit</string>
+		<string>-moz-min-content</string>
+		<string>-webkit-min-content</string>
+		<string>-ms-min-content</string>
+		<string>min-content</string>
+		<string>-moz-max-content</string>
+		<string>-webkit-max-content</string>
+		<string>-ms-max-content</string>
+		<string>max-content</string>
+		<string>-moz-border-box</string>
+		<string>-webkit-border-box</string>
+		<string>border-box</string>
+		<string>-moz-content-box</string>
+		<string>-webkit-content-box</string>
+		<string>content-box</string>
+		<string>-moz-available</string>
+		<string>-webkit-available</string>
+		<string>available</string>
+		<string>-moz-fit-content</string>
+		<string>-webkit-fit-content</string>
+		<string>fit-content</string>
 	</array>
 	<key>word-spacing</key>
 	<array>
@@ -1642,6 +1662,5 @@
 		<string>manual</string>
 		<string>auto</string>
 	</array>
-	
 </dict>
 </plist>
