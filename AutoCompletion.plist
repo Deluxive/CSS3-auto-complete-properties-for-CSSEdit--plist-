@@ -691,6 +691,10 @@
 		<string>900</string>
 		<string>inherit</string>
 	</array>
+	<key>@font-face</key>
+	<array>
+		<string>inherit</string>
+		</array>
 	<key>height</key>
 	<array>
 		<string>auto</string>
