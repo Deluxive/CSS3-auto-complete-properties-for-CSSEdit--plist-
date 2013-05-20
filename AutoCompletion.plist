@@ -1830,5 +1830,21 @@
 	<array>
 		<string>inherit</string>
 		</array>
+				<key>resize</key>
+	<array>
+		<string>none</string>
+		<string>both</string>
+		<string>horizontal</string>
+		<string>vertical</string>
+		<string>inherit</string>
+		</array>
+						<key>-moz-resize</key>
+	<array>
+		<string>none</string>
+		<string>both</string>
+		<string>horizontal</string>
+		<string>vertical</string>
+		<string>inherit</string>
+		</array>
 </dict>
 </plist>
