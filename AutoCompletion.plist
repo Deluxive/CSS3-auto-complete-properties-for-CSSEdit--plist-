@@ -1826,5 +1826,9 @@
 		<string>manual</string>
 		<string>auto</string>
 	</array>
+		<key>@media</key>
+	<array>
+		<string>inherit</string>
+		</array>
 </dict>
 </plist>
