@@ -1871,5 +1871,14 @@
 	<array>
 		<string>inherit</string>
 		</array>
+				   <key>ime-mode</key>
+	<array>
+		<string>auto</string>
+	    <string>normal</string>
+	    <string>active</string>
+	    <string>inactive</string>
+	    <string>disabled</string>
+	    <string>inherit</string>
+		</array>
 </dict>
 </plist>
