@@ -1162,6 +1162,28 @@
 		<string>normal</string>
 		<string>inherit</string>
 	</array>
+	<key>box-sizing</key>
+	    <array>
+		<string>content-box</string>
+		<string>padding-box</string>
+		<string>border-box</string>
+		<string>inherit</string>
+	</array>
+		<key>-moz-box-sizing</key>
+	    <array>
+		<string>content-box</string>
+		<string>padding-box</string>
+		<string>border-box</string>
+		<string>inherit</string>
+	</array>
+			<key>-webkit-box-sizing</key>
+	    <array>
+		<string>content-box</string>
+		<string>padding-box</string>
+		<string>border-box</string>
+		<string>inherit</string>
+	</array>
+
 	<key>z-index</key>
 	<array>
 		<string>auto</string>
