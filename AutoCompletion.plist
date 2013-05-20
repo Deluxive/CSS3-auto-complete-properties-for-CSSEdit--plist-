@@ -1727,6 +1727,15 @@
 		<key>text-rendering</key>
 	<array>
 		<string>optimizeLegibility</string>
+	</array>
+		<key>image-rendering</key>
+	<array>
+		<string>auto</string>
+		<string>-webkit-optimize-contrast</string>
+		<string>-moz-crisp-edges</string>
+		<string>crisp-edges</string>
+		<string>optimizeQuality</string>
+		<string>optimizeSpeed</string>
 	</array>	
 		
 	<key>filter</key>
