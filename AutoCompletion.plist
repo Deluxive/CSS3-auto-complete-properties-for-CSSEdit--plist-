@@ -1211,6 +1211,27 @@
 		<string>normal</string>
 		<string>inherit</string>
 	</array>
+	<key>word-wrap</key>
+	<array>
+		<string>normal</string>
+		<string>break-word</string>
+		<string>inherit</string>
+	</array>
+		<key>overflow-wrap</key>
+	<array>
+		<string>normal</string>
+		<string>break-word</string>
+		<string>hyphenate</string>
+		<string>inherit</string>
+	</array>
+		<key>text-wrap</key>
+	<array>
+	    <string>none</string>
+		<string>normal</string>
+		<string>suppress</string>
+		<string>unrestricted</string>
+		<string>inherit</string>
+	</array>
 	<key>word-break</key>
 	<array>
 		<string>normal</string>
