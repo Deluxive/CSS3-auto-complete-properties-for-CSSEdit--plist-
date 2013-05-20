@@ -1747,27 +1747,7 @@
 	<array>
 		<string>1</string>
 	</array>
-		<key>:after</key>
-	<array>
-		<string>inherit</string>
-	</array>
-			<key>:before</key>
-	<array>
-		<string>inherit</string>
-	</array>
-		<key>:-webkit-full-screen</key>
-	<array>
-		<string>inherit</string>
-	</array>
-		<key>:-moz-full-screen</key>
-	<array>
-		<string>inherit</string>
-	</array>
-		<key>:full-screen</key>
-	<array>
-		<string>inherit</string>
-	</array>
-		<key>text-rendering</key>
+			<key>text-rendering</key>
 	<array>
 		<string>optimizeLegibility</string>
 	</array>
@@ -1826,19 +1806,7 @@
 		<string>manual</string>
 		<string>auto</string>
 	</array>
-		<key>@media</key>
-	<array>
-		<string>inherit</string>
-		</array>
-		<key>@supports</key>
-	<array>
-		<string>inherit</string>
-		</array>
-		<key>@charset</key>
-	<array>
-		<string>inherit</string>
-		</array>
-				<key>resize</key>
+   <key>resize</key>
 	<array>
 		<string>none</string>
 		<string>both</string>
