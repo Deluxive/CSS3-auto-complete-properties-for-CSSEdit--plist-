@@ -1239,8 +1239,18 @@
 		<string>keep-all</string>
 		<string>inherit</string>
 	</array>
-
-	<key>box-sizing</key>
+		<key>writing-mode</key>
+	<array>
+		<string>horizontal-tb</string>
+		<string>rl-tb</string>
+		<string>vertical-lr</string>
+		<string>vertical-rl</string>
+		<string>bt-rl</string>
+		<string>bt-lr</string>
+		<string>lr-bt</string>
+		<string>rl-bt</string>
+	</array>
+   <key>box-sizing</key>
 	    <array>
 		<string>content-box</string>
 		<string>padding-box</string>
