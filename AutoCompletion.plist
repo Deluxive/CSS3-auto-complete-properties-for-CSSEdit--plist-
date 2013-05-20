@@ -1289,6 +1289,72 @@
 	<array>
 		<string>inherit</string>
 	</array>
+		<key>-moz-animation</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>-moz-animation-delay</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>-moz-animation-direction</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>-moz-animation-duration</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>-moz-animation-iteration-count</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>-moz-animation-name</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>-moz-animation-play-state</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>-moz-animation-timing-function</key>
+	<array>
+		<string>inherit</string>
+	</array>
+     <key>animation</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>animation-delay</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>animation-direction</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>animation-duration</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>animation-iteration-count</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>animation-name</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>animation-play-state</key>
+	<array>
+		<string>inherit</string>
+	</array>
+	<key>animation-timing-function</key>
+	<array>
+		<string>inherit</string>
+	</array>
+
+	
 	<key>-webkit-appearance</key>
 	<array>
 		<string>inherit</string>
