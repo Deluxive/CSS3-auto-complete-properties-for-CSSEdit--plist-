@@ -1828,5 +1828,9 @@
 	<array>
 		<string>inherit</string>
 		</array>
+		   <key>orphans</key>
+	<array>
+		<string>inherit</string>
+		</array>
 </dict>
 </plist>
