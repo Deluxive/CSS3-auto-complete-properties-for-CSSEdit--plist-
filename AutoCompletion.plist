@@ -1211,6 +1211,14 @@
 		<string>normal</string>
 		<string>inherit</string>
 	</array>
+	<key>word-break</key>
+	<array>
+		<string>normal</string>
+		<string>break-all</string>
+		<string>keep-all</string>
+		<string>inherit</string>
+	</array>
+
 	<key>box-sizing</key>
 	    <array>
 		<string>content-box</string>
