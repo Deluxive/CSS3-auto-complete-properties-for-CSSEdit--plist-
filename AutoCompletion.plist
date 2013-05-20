@@ -1830,6 +1830,14 @@
 	<array>
 		<string>inherit</string>
 		</array>
+		<key>@supports</key>
+	<array>
+		<string>inherit</string>
+		</array>
+		<key>@charset</key>
+	<array>
+		<string>inherit</string>
+		</array>
 				<key>resize</key>
 	<array>
 		<string>none</string>
