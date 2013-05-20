@@ -440,11 +440,28 @@
 		<string>none</string>
 		<string>-webkit-flex</string>
 		<string>-moz-flex</string>
-		<string>flex</string>
+        <string>flex</string>
 		<string>-webkit-flex-direction</string>
 		<string>-moz-flex-direction</string>
 		<string>flex-direction</string>
-        <string>none</string>
+		<string>flexbox</string>
+		<string>-ms-flexbox</string>
+		<string>-webkit-flexbox</string>
+		<string>-moz-flexbox</string>
+        <string>grid</string>
+		<string>sub-grid</string>
+		<string>inline-grid</string>
+		<string>-moz-box</string>
+		<string>-webkit-box</string>
+		<string>-ms-box</string>
+		<string>box</string>
+		<string>-ms-flexbox</string>
+		<string>-webkit-flexbox</string>
+		<string>-moz-flexbox</string>
+        <string>grid</string>
+		<string>sub-grid</string>
+		<string>inline-grid</string>
+		<string>none</string>
 		<string>inherit</string>
 	</array>
 		<key>-webkit-flex</key>
@@ -459,7 +476,39 @@
 	<array>
 	 <string>inherit</string>
 	</array>
-	<key>-webkit-flex-direction</key>
+		<key>-webkit-flexbox</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+    <key>-moz-flexbox</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+	<key>-ms-flexbox</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+		<key>flexbox</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+	<key>box</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+		<key>-ms-box</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+			<key>-webkit-box</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+			<key>-moz-box</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+ <key>-webkit-flex-direction</key>
 	<array>
 	<string>row</string>
 	<string>column</string>
@@ -1156,6 +1205,12 @@
 	</array>
 	<key>voice-family</key>
 	<array>
+		<string>child</string>
+		<string>female</string>
+		<string>male</string>
+		<string>neutral</string>
+		<string>old</string>
+		<string>young</string>
 		<string>inherit</string>
 	</array>
 	<key>volume</key>
@@ -1879,6 +1934,54 @@
 	    <string>inactive</string>
 	    <string>disabled</string>
 	    <string>inherit</string>
+		</array>
+     <key>grid-columns</key>
+	<array>
+	 <string>inherit</string>
+		</array>
+		  <key>grid-rows</key>
+	<array>
+	 <string>inherit</string>
+	  </array>
+	 <key>grid-column-span</key>
+	<array>
+		<string>3</string>
+	 <string>inherit</string>
+		</array>
+			 <key>grid-row</key>
+	<array>
+		<string>1</string>
+	 <string>inherit</string>
+		</array>
+		 <key>grid-row-span</key>
+	<array>
+		<string>3</string>
+	 <string>inherit</string>
+		</array>
+		
+		     <key>grid-definition-columns</key>
+	<array>
+	 <string>inherit</string>
+		</array>
+		  <key>grid-definition-rows</key>
+	<array>
+	 <string>inherit</string>
+	  </array>
+		<key>grid-row-position</key>
+	<array>
+	 <string>inherit</string>
+		</array>
+	<key>grid-auto-flow</key>
+	<array>
+	<string>rows</string>
+	 <string>columns</string>
+	 <string>inherit</string>
+		</array>
+			<key>grid-auto-flow</key>
+	<array>
+	<string>rows</string>
+	 <string>columns</string>
+	 <string>inherit</string>
 		</array>
 </dict>
 </plist>
