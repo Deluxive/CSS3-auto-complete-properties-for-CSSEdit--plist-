@@ -438,7 +438,50 @@
 		<string>table-cell</string>
 		<string>table-caption</string>
 		<string>none</string>
+		<string>-webkit-flex</string>
+		<string>-moz-flex</string>
+		<string>flex</string>
+		<string>-webkit-flex-direction</string>
+		<string>-moz-flex-direction</string>
+		<string>flex-direction</string>
+        <string>none</string>
 		<string>inherit</string>
+	</array>
+		<key>-webkit-flex</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+    <key>-moz-flex</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+		<key>flex</key>
+	<array>
+	 <string>inherit</string>
+	</array>
+	<key>-webkit-flex-direction</key>
+	<array>
+	<string>row</string>
+	<string>column</string>
+	 <string>inherit</string>
+	</array>
+	<key>-moz-flex-direction</key>
+	<array>
+	<string>row</string>
+	<string>column</string>
+	 <string>inherit</string>
+	</array>
+	<key>flex-direction</key>
+	<array>
+	<string>row</string>
+	<string>column</string>
+	 <string>inherit</string>
+	</array>
+		<key>flex-flow</key>
+	<array>
+	<string>row</string>
+	<string>column</string>
+	 <string>inherit</string>
 	</array>
 	<key>elevation</key>
 	<array>
@@ -1045,7 +1088,7 @@
 		<string>auto</string>
 		<string>fixed</string>
 	</array>
-	<key>text-align</key>
+   <key>text-align</key>
 	<array>
 		<string>left</string>
 		<string>right</string>
