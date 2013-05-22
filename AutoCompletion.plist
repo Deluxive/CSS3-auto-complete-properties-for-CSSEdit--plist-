@@ -1799,6 +1799,26 @@
 		<array>
 			<string>inherit</string>
 		</array>
+		<key>border-radius</key>
+		<array>
+			<string>inherit</string>
+		</array>
+		<key>border-radius-topleft</key>
+		<array>
+			<string>inherit</string>
+		</array>
+		<key>border-radius-topright</key>
+		<array>
+			<string>inherit</string>
+		</array>
+		<key>border-radius-bottomleft</key>
+		<array>
+			<string>inherit</string>
+		</array>
+		<key>border-radius-bottomright</key>
+		<array>
+			<string>inherit</string>
+		</array>
 		<key>-moz-user-modify</key>
 		<array>
 			<string>inherit</string>
