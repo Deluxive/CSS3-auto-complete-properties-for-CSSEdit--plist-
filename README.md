@@ -16,7 +16,7 @@ The .plist is updated (and forked) from Jesse Dodds repo [here](https://github.c
 1. [Download the .plist file](https://raw.githubusercontent.com/christopheranderton/CSS3-auto-complete-properties-for-CSSEdit--plist-/master/AutoCompletion.plist) 	
 2. Go to the *CSSEdit.app* in the *Finder* then right-click and select *Show Package Contents*
 3. Navigate to the folder *Resources* within the *Contents* folder 
-4.  Just copy the `AutoComplete.plist` file. Select **Replace** when asked if you wanna overwrite the existing file (make sure you do a backup first!).
+4.  Just copy the `AutoCompletion.plist` file. Select **Replace** when asked if you wanna overwrite the existing file (make sure you do a backup first!).
 
 ## Year 2016 Status
 I'm not using CSSEdit anymore. It was many years since, however, the UI still kicks ass. Still looking for a real replacement. Was looking into Atom or Brackets (that both are built on modern web technologies), but my knowledge for creating a Plug-in or Addon is sadly not up to pair for the task. 
