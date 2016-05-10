@@ -9,7 +9,7 @@ The application was last updated  *August 2007* and has been dead and buried sin
 Me and many others are <del>still using</del> *CSSEdit*. But why? The UI of *CSSEdit* is hard to beat. Other Editors is behind in terms of usability and speed. While *MacRabbit* released the General Code Editor *Espresso 2* with ”CSSEdit 3 integrated”,  it was a downgrade for CSS editing, both feature wise (in some aspects) and UI wise compared to *CSSEdit*. 
 
 The .plist is updated (and forked) from Jesse Dodds repo [here](https://github.com/jessedodds/CSS3-auto-complete-properties-for-CSSEdit--plist-)
-(For more info, visit Jesse Dodd's Blog: http://notes.jessedodds.com/post/613046962).
+(For more info, visit Jesse Dodd's Blog (Wayback Machine Snapshot): https://web.archive.org/web/20130329093835/http://notes.jessedodds.com/post/613046962).
 
 ## Installation
 
